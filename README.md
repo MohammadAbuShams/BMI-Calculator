@@ -17,7 +17,7 @@ A **modern BMI Calculator** built with HTML, CSS, and JavaScript. This app allow
 
 - **HTML5**: For structuring the application.
 - **CSS3**: For styling and a modern look.
-- **JavaScript (Vanilla)**: For dynamic BMI calculation and interactivity.
+- **JavaScript**: For dynamic BMI calculation and interactivity.
 
 ---
 
