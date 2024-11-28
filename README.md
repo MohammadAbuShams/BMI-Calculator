@@ -30,7 +30,7 @@ A **modern BMI Calculator** built with HTML, CSS, and JavaScript. This app allow
    - **Weight**: Your weight in kilograms.
    - **Height**: Your height in centimeters.
 3. Click the **"Calculate BMI"** button.
-4. View your BMI value and its corresponding category in the result section.
+4. View your BMI value.
 
 ---
 
