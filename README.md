@@ -21,3 +21,24 @@ A **modern BMI Calculator** built with HTML, CSS, and JavaScript. This app allow
 
 ---
 
+## 🚀 How to Use
+
+1. Visit the **[Live Demo](https://mohammadabushams.github.io/BMI-Calculator/)**.
+2. Enter the following details:
+   - **Gender**: Male or Female.
+   - **Age**: Your age in years.
+   - **Weight**: Your weight in kilograms.
+   - **Height**: Your height in centimeters.
+3. Click the **"Calculate BMI"** button.
+4. View your BMI value and its corresponding category in the result section.
+
+---
+
+## 🌐 Live Demo
+
+Try the BMI Calculator live **[here](https://mohammadabushams.github.io/BMI-Calculator/)**.
+
+---
+
+
+
